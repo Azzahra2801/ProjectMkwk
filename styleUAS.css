@@ -1,0 +1,60 @@
+.banner {
+    background: url("https://aryginanjar.com/wp-content/uploads/2019/09/Kantor-Ary-Ginanjar-Agustian-ESQ-Group-Menara-165-TB-Simatupang-Cilandak-Jakarta-Selatan-1024x348.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 15%; 
+    padding-bottom: 15%;
+    color: beige;
+}
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 50px;
+    margin: auto;
+    height: 50px;
+    color: rgb(247, 247, 247);
+    background-color:#222121;
+}
+.lingkaran i{
+    position: relative;
+    top: 25%;
+    height: 50%;
+    width: 50%;
+}
+.crop-img{
+    object-fit: cover;
+}
+h4{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+h3{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(19, 11, 11);
+}
+h2{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(19, 11, 11);
+}
+
+body {
+    background-color: #5747eb;
+    overflow-y: auto;
+}
+.carousel{
+    overflow: visible;
+}
+footer{
+    background-color: rgb(246, 186, 114);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 300;
+}
